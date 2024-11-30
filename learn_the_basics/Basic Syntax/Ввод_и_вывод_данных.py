@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print("Hello " + name)
+age = input("What is your age? ")
+print("Your age is", age)
+job = input("What is your job? ")
+print(f"Your job is {job}")
